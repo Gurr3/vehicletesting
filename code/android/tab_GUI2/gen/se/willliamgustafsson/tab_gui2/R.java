@@ -32,9 +32,13 @@ public final class R {
         public static final int item_gv_service=0x7f05000d;
         public static final int item_gv_theunit=0x7f05000e;
         public static final int item_gv_thevalue=0x7f05000f;
+        public static final int item_sendvalue=0x7f050010;
+        public static final int item_sv_currentvalue=0x7f050012;
+        public static final int item_sv_edittext=0x7f050013;
+        public static final int item_sv_service=0x7f050011;
         public static final int relativeLayout1=0x7f050000;
         public static final int relativeLayout2=0x7f05000c;
-        public static final int tableRow1=0x7f050010;
+        public static final int tableRow1=0x7f050014;
         public static final int textView1=0x7f050007;
         public static final int twoLineListItem1=0x7f050006;
     }
@@ -46,12 +50,15 @@ public final class R {
         public static final int custom_row=0x7f030004;
         public static final int item_checkbox=0x7f030005;
         public static final int item_getvalue=0x7f030006;
-        public static final int list_gui=0x7f030007;
-        public static final int list_gui_activity=0x7f030008;
-        public static final int tab_gui=0x7f030009;
+        public static final int item_sendvalue=0x7f030007;
+        public static final int list_gui=0x7f030008;
+        public static final int list_gui_activity=0x7f030009;
+        public static final int tab_gui=0x7f03000a;
     }
     public static final class string {
         public static final int add=0x7f040007;
+        /**  THE NAME OF THE APPLICATION 
+         */
         public static final int app_name=0x7f040001;
         public static final int button1=0x7f040002;
         public static final int data=0x7f040006;
@@ -65,5 +72,6 @@ public final class R {
         public static final int noUnit=0x7f04000b;
         public static final int no_data=0x7f040004;
         public static final int no_data2=0x7f040005;
+        public static final int sendingvalue=0x7f04000c;
     }
 }
